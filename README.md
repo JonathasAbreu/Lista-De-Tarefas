@@ -1,4 +1,4 @@
-#LISTA DE TAREFAS
+LISTA DE TAREFAS
 
 Esse sistema permite adicionar várias tarefas para o seu acompanhamento
 
